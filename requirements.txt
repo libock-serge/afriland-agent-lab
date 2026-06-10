@@ -1,0 +1,3 @@
+# Runs on the Python standard library only:  python run.py
+# Optional live model: pip install anthropic ; export ANTHROPIC_API_KEY=...
+anthropic>=0.40.0   # optional
